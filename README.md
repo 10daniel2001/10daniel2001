@@ -21,13 +21,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Jornada de Aprendizado
+```text
+C        ████████████████████░░░░   80%
+Java     ████████░░░░░░░░░░░░░░░░   30%
+Rust     ████░░░░░░░░░░░░░░░░░░░░   15%
+```
+
+---
+
+## 👀 Visitas no perfil
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=10daniel2001&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=10daniel2001&show_icons=true&theme=dark&locale=pt)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=10daniel2001.10daniel2001)
 
 </div>
 
@@ -35,6 +42,5 @@
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-daniel-godoi-da-costa)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](c.7danieldacosta@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
