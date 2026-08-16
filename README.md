@@ -1,22 +1,25 @@
-# Software Engineering Student — Low-Level Systems & Networking
+# Software Engineering Student — Systems, Networking & Security
 
-Focused on systems programming and network engineering, with a long-term interest
-in security engineering. Based in Goiás, Brazil.
+Training toward systems engineering, with particular interest in networking,
+security, databases, and Linux. Based in Goiás, Brazil.
 
 ## Technical Focus
 
-- **Languages:** C, Rust, Python
+- **C:** algorithms and complexity
+- **Python:** programming paradigms, Object-Oriented Programming (OOP)
+- **Rust:** early exposure, not yet a primary focus
 - **Environment:** Linux
-- **Database:** PostgreSQL
-- **Currently studying:** memory management, data structures, network programming
+- **Databases:** PostgreSQL, database modeling (ER diagrams)
+- **Currently studying:** systems architecture
 
 ## About
 
-Building foundational knowledge in low-level systems through C and Rust, with
-Python for tooling and scripting. Working primarily in Linux environments.
-Current areas of study include manual memory management, core data structures,
-and network programming fundamentals, with the goal of moving toward systems
-and security engineering.
+Training toward systems engineering, with a particular interest in networking,
+security, databases, and Linux. Working with C applied to the study of
+algorithms and complexity, and with Python to explore programming paradigms
+and Object-Oriented Programming. Early, non-primary exposure to Rust. In
+databases, studying data modeling through ER diagrams and working with
+PostgreSQL. Currently deepening knowledge of systems architecture.
 
 ## Contact
 
