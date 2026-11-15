@@ -24,3 +24,4 @@ PostgreSQL. Currently deepening knowledge of systems architecture.
 ## Contact
 
 Email: cd38668cd@gmail.com
+FROM: BRAZIL 
